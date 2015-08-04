@@ -1,0 +1,3 @@
+C:\Users\Kiran\Documents\Visual Studio 2015\Projects\TryCollectionClass\TryCollectionClass\bin\Debug\TryCollectionClass.exe.config
+C:\Users\Kiran\Documents\Visual Studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\TryCollectionClass.exe
+C:\Users\Kiran\Documents\Visual Studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\TryCollectionClass.pdb

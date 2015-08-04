@@ -1,0 +1,14 @@
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\bin\Debug\TryCollectionClass.exe.config
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\bin\Debug\TryCollectionClass.exe
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\bin\Debug\TryCollectionClass.pdb
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\TryCollectionClass.csprojResolveAssemblyReference.cache
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\MainWindow.g.cs
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\App.g.cs
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\TryCollectionClass_MarkupCompile.cache
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\TryCollectionClass_MarkupCompile.lref
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\MainWindow.baml
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\TryCollectionClass.g.resources
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\TryCollectionClass.Properties.Resources.resources
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\TryCollectionClass.csproj.GenerateResource.Cache
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\TryCollectionClass.exe
+c:\users\kiran\documents\visual studio 2015\Projects\TryCollectionClass\TryCollectionClass\obj\Debug\TryCollectionClass.pdb
